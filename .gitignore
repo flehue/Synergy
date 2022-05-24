@@ -1,0 +1,7 @@
+*.txt
+*.ipynb
+*.png
+*.PNG
+*.jpeg
+*.jpg
+__pychache__
